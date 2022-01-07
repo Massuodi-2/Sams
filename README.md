@@ -1,2 +1,2 @@
 # Sams
-Coming Soon
+Style And Modern Site
