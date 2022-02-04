@@ -16,7 +16,10 @@
 <script src="pwabuilder-sw/pwabuilder-sw.js"></script>
 <script src="pwabuilder-sw/pwabuilder-sw-register.js"></script>
 <link rel="manifest" href="manifest.json" />
-<script>
+    <script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
     OneSignal.init({
