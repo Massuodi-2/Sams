@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "Aware From Tredny Clothes At Our Web- Stylish And Modern Site | Sams ",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sams-me.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sams-me.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/708x592.png",
+      "type": "image/png",
+      "sizes": "708x592"
+    }
+  ]
+}
